@@ -14,7 +14,7 @@
 <!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg fixed-top bg-white shadow-sm">
     <div class="container">
-        <a class="navbar-brand fw-bold" href="#">
+        <a class="navbar-brand fw-bold" href="/">
             <img src="{{ asset('images/logo.png') }}" width="90">
         </a>
 
