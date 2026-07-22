@@ -2,7 +2,7 @@
 
 @section('content')
 
-<!-- Link External CSS File -->
+
 <link rel="stylesheet" href="{{ asset('css/home_css.css') }}">
 
 <!-- NAVBAR -->
